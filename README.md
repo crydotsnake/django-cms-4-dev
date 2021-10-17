@@ -19,3 +19,9 @@ virtualenv cms4core
 ```bash
 pip install -r requirements.txt
 ```
+
+## Start development server
+
+```bash
+python manage.py runserver
+```
