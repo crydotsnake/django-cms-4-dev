@@ -20,6 +20,18 @@ virtualenv cms4core
 pip install -r requirements.txt
 ```
 
+## Run migrations
+
+```bash
+python manage.py migrate
+```
+
+## Create admin user
+
+```bash
+python manage.py createsuperuser
+```
+
 ## Start development server
 
 ```bash
