@@ -53,6 +53,8 @@ INSTALLED_APPS = [
     'easy_thumbnails',
     'mptt',
     'djangocms_text_ckeditor',
+    'djangocms_versioning',
+    'djangocms_alias',
 ]
 
 THUMBNAIL_HIGH_RESOLUTION = True

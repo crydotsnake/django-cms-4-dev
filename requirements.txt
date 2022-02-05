@@ -17,7 +17,7 @@ Pillow==8.4.0
 Unidecode==1.1.2
 https://github.com/django-cms/djangocms-text-ckeditor/archive/refs/tags/4.0.0.zip#egg=djangocms-text-ckeditor==4.0.0
 https://github.com/django-cms/djangocms-versioning/archive/refs/heads/master.zip#egg=djangocms-versioning==0.0.33
-https://github.com/django-cms/djangocms-moderation/archive/refs/heads/master.zip#egg=djangocms-moderation==2.0.0
+https://github.com/django-cms/djangocms-alias/archive/refs/heads/master.zip#egg=djangocms-alias==0.0.12
 html5lib==1.1
 six==1.16.0
 webencodings==0.5.1
