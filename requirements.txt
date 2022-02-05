@@ -1,7 +1,7 @@
 asgiref==3.4.1
 Django==2.2
 pytz==2021.3
-https://github.com/crydotsnake/django-cms/archive/refs/heads/develop-4.zip#egg=django-cms==4.0.0dev11
+https://github.com/crydotsnake/django-cms/archive/refs/heads/release/4.0.x.zip#egg=django-cms==4.0.0dev11
 django-formtools==2.3
 django-sekizai==2.0.0
 django-treebeard==4.5.1
@@ -15,7 +15,9 @@ django-polymorphic==3.0.0
 easy-thumbnails==2.7.2
 Pillow==8.4.0
 Unidecode==1.1.2
-https://github.com/django-cms/djangocms-text-ckeditor/archive/refs/heads/support/4.0.x.zip#egg=djangocms-text-ckeditor==4.0.0dev5
+https://github.com/django-cms/djangocms-text-ckeditor/archive/refs/tags/4.0.0.zip#egg=djangocms-text-ckeditor==4.0.0
+https://github.com/django-cms/djangocms-versioning/archive/refs/heads/master.zip#egg=djangocms-versioning==0.0.33
+https://github.com/django-cms/djangocms-moderation/archive/refs/heads/master.zip#egg=djangocms-moderation==2.0.0
 html5lib==1.1
 six==1.16.0
 webencodings==0.5.1
