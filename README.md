@@ -37,3 +37,11 @@ python manage.py createsuperuser
 ```bash
 python manage.py runserver
 ```
+
+## Check your installation
+
+Your can check your Installation for any erros with:
+
+```bash
+python manage.py cms check
+```
