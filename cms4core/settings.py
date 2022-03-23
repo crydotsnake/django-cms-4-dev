@@ -46,15 +46,15 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django.contrib.sites',
     'cms',
-    'menus',
-    'treebeard',
-    'sekizai',
-    'filer',
-    'easy_thumbnails',
-    'mptt',
+    'djangocms_alias',
+    'djangocms_url_manager',
     'djangocms_text_ckeditor',
     'djangocms_versioning',
-    'djangocms_alias',
+    'djangocms_version_locking',
+    'menus',
+    'sekizai',
+    'treebeard',
+    'parler',
 ]
 
 THUMBNAIL_HIGH_RESOLUTION = True
